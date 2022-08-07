@@ -32,5 +32,12 @@
 <img src="task_git_collaboration/git1.png">
 <img src="task_git_collaboration/git2.png">
 
+## Intro to HTML and CSS
 
+<img src="task_html_css_intro/1%20week.png">
+<img src="task_html_css_intro/2%20week.png">
+<img src="task_html_css_intro/html_1.png">
+<img src="task_html_css_intro/css_1.png">
 
+Освіжив знання по  HTML & CSS. 
+Новою для мене була інформація про Bootstrap. До цього часу в рамках одного з курсів я користувався власноруч написаними grid'ами. 
